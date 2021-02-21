@@ -1,0 +1,4 @@
+displayName = Otherworldly Music
+author = kiko
+version = 1.0
+includePDB = true

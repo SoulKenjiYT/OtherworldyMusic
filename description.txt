@@ -1,0 +1,5 @@
+This mod replaces the current BIOME music, with the Terraria Otherworld soundtrack.
+
+The cave music is buggy, and the underground snow music doesn't work, but aside from that everything else should work.
+
+If this is illegal, please inform me and I will gladly take it down.
